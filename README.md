@@ -33,6 +33,11 @@ Sports are much needed for one who want to be fit and be healthy mentally and ph
 |Volleyball|Recreation_center|$30|
 |Cricket   |Parkway|$5|
 
+***
 
+# Pithy Codes
+
+> "Work is worship. Duty is religion!"- Puri jaganath
+> "The only one who can stop is you"- Ayn Rand
 
 
