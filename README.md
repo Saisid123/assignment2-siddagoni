@@ -101,6 +101,8 @@ int j = log[R - L + 1];
 int minimum = min(st[L][j], st[R - (1 << j) + 1][j]);
 ```
 
+Let's go to Sparse table datastructure<https://cp-algorithms.com/data_structures/sparse-table.html>
+
 
 
 
