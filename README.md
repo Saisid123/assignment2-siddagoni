@@ -37,7 +37,7 @@ Sports are much needed for one who want to be fit and be healthy mentally and ph
 
 # Pithy Codes
 
-> "Work is worship. Duty is religion!"- Puri jaganath <br>
-> "The only one who can stop is you"- Ayn Rand
+> "Work is worship. Duty is religion!"- *Puri jaganath* <br>
+> "The only one who can stop is you"- *Ayn Rand*
 
 
