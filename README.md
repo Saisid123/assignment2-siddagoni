@@ -21,6 +21,18 @@ Nearest airport is Rajiv Gandhi international airport
 
 [link to AboutMe](AboutMe.md) 
 
+***
+
+# SPORTS
+
+Sports are much needed for one who want to be fit and be healthy mentally and physically.<br>
+
+|Activity|location|fee|
+|--------|--------|---|
+|baseball|hugesfield|$20|
+|volleyball|Recreation_center|$30|
+|Cricket   |parkway|$5|
+
 
 
 
